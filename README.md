@@ -1,1 +1,1 @@
-![Monitoring Matrix](https://raw.githubusercontent.com/shaikhlsg/balkhash/main/monitoring_matrix.png)
+![Monitoring Matrix](2022-1.png)
